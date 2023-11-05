@@ -1,3 +1,5 @@
 # GIT COMMANDS
 git config
-git add git commit
+
+git add 
+git commit
